@@ -6,8 +6,7 @@ A pairs trade or pair trading is a market neutral trading strategy enabling trad
 Choose the best pair, calculate the residual, then forecast the next day's residual to generate buy and sell signals.
 
 ### Performance Metric
-    -Square-loss
-    -Mean Square Error
+   - Mean Square Error
 
 ## 1) Data Collection
 
