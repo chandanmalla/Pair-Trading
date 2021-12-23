@@ -195,6 +195,8 @@ ARIMA Equation:
 - Number of lags in Moving Average and Differences required can be identified using *auto correlation plot* and *ADF test* to determine whether it is stationary or not
 
 **ARIMA Result:**
+
+
 ![image.png](https://i.imgur.com/G19Egk4.png)
 
 ## 6) Pair Trading using Machine Learning
