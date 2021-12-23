@@ -34,6 +34,8 @@ Use T-Sne to visualize if Clustering done makes any sense or not
 
 Step 4:
 Because tickers within the same cluster would be related to each other, the cointegration test will be used to determine which are the best pairs among them.
+
+
 ![alt text](https://i.imgur.com/6Aj3cKg.png)
 
 ![alt text](https://i.imgur.com/9X4BxT4.png)
