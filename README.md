@@ -2,6 +2,13 @@
 ##### _About_ (Source: Wiki)
 A pairs trade or pair trading is a market neutral trading strategy enabling traders to profit from virtually any market conditions: uptrend, downtrend, or sideways movement. The strategy monitors performance of two historically correlated securities. When the correlation between the two securities temporarily weakens, i.e. one stock moves up while the other moves down, the pairs trade would be to short the outperforming stock and to long the underperforming one, betting that the "spread" between the two would eventually converge. The divergence within a pair can be caused by temporary supply/demand changes, large buy/sell orders for one security, reaction for important news about one of the companies, and so on.
 
+###Problem Statement :
+Choose the best pair, calculate the residual, then forecast the next day's residual to generate buy and sell signals.
+
+###Performance Metric:
+Square-loss
+Mean Square Error
+
 ## 1) Data Collection
 
 Step 1:
